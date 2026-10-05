@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Audio / model artifacts
+*.wav
+*.mp3
+*.flac
+*.ckpt
+*.pt
+*.safetensors
